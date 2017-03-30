@@ -1,2 +1,5 @@
-HaikuGenerator/bin/*
-HaikuGenerator/obj/*
+*.sou
+*.exe
+*.obj
+./bin/
+./obj/
