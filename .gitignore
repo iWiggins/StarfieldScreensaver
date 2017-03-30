@@ -1,5 +1,5 @@
 *.suo
 *.exe
 *.obj
-./bin/
-./obj/
+StarfieldScreensaver/bin/
+StarfieldScreensaver/obj/
