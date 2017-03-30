@@ -132,6 +132,7 @@ class star
         cosTheta = Math.Cos(theta);
     }
 
+    #region Private Data
     private int Scale;
     private double theta;
     private double cosTheta;
@@ -140,6 +141,7 @@ class star
     private Point initialCenter;
     private int T;
     private int MAX_SCALE;
+    #endregion
 }
 
 class MyCoolScreensaver : Screensaver
